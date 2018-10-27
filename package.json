@@ -1,6 +1,6 @@
 {
   "name": "eu-vat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny utility to retrieve vat rates for the EU. Useful for Ecommerce platforms and projects.",
   "main": "index.js",
   "scripts": {
