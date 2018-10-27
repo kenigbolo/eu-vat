@@ -4,7 +4,7 @@
   "description": "A tiny utility to retrieve vat rates for the EU. Useful for Ecommerce platforms and projects.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --timeout 10000"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/kenigbolo/eu-vat/issues"
   },
-  "homepage": "https://github.com/kenigbolo/eu-vat#readme"
+  "homepage": "https://github.com/kenigbolo/eu-vat#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
