@@ -49,7 +49,7 @@ The `countryCode {Optional}` - This refers to the ISO2 country code of the Europ
 
 The returned value largely depends on if a countryCode is passed, however the returned value is always a Promise, although using the async/await syntax one could easily mimick real time data handling. For a `getRates` request with a countryCode passed, say Romanian countryCode `RO`, the following should be an expected response.
 
-```
+```javascript
 { 
   name: 'Romania',
   countryCode: 'RO',
