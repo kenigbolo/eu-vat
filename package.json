@@ -1,0 +1,30 @@
+{
+  "name": "eu-vat",
+  "version": "1.0.0",
+  "description": "A tiny utility to retrieve vat rates for the EU. Useful for Ecommerce platforms and projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenigbolo/eu-vat.git"
+  },
+  "keywords": [
+    "eu",
+    "vat",
+    "tax",
+    "taxrate",
+    "tax rate",
+    "europe",
+    "european union",
+    "value added tax",
+    "money"
+  ],
+  "author": "Kenigbolo Meya Stephen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenigbolo/eu-vat/issues"
+  },
+  "homepage": "https://github.com/kenigbolo/eu-vat#readme"
+}
