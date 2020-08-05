@@ -29,6 +29,6 @@
   "homepage": "https://github.com/kenigbolo/eu-vat#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1"
+    "mocha": "^7.1.0"
   }
 }
